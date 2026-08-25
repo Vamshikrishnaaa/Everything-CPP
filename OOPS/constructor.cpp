@@ -24,6 +24,6 @@ int main(){
     ob1.scanner(17,7);
 
     constr ob2(ob1); //custom copy constructor is automatically called/invoked when it detects object is being 
-                     //sent as an argummnent
+                     //sent as an argummnents
     return 0;
 }
