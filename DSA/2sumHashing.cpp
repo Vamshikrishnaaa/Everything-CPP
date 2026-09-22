@@ -18,7 +18,7 @@ int main(){
            ans={m[sec],i};
            break;
         }
-
+    
         m[first]=i;
 
     }
