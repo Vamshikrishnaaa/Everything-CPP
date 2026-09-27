@@ -9,7 +9,6 @@ int sum(int num){ //Algorithm written in notes
     sum+=rem;
     num = num /10; 
     }
-
     return sum;
 }
 
